@@ -3,3 +3,4 @@
 # lab 3  part 2
 -https://github.com/thomas-xd/lab3/blob/main/lab3part2.py
 # prime number judge
+-https://github.com/thomas-xd/lab3/blob/main/prime%20number.py
