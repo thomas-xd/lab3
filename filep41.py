@@ -1,4 +1,4 @@
-'''
+''
 filename:filep41.py
 
 Read datafile1.dat in text format, create a list, print the 
@@ -27,8 +27,9 @@ fileOut.write('''
 |----|-------|---|------|
 ''')
 for e in data:
-    fileOut.write('|'+e[0]+'|'
-                  '|'+e[1]+'|'
-                  '|'+e[2]+'|'
-                  '|'+e[3]+'|')
-
+    fileOut.write('|'+e[0]+'|'+
+                  e[1]+'|'+
+                  e[2]+'|'+
+                  e[3]+'|'+'/n')
+fileIn.close()
+fileOut.close()
