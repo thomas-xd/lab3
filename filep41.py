@@ -19,10 +19,10 @@ fileOut.write('''
 <tr><th>Name</th><th>Address</th><th>Txn</th>Amount</th></tr>
 ''')
 for e in data:
-    fileOut.write('<tr><td>'+e[0]+'</td>' +
-                   '<td>'+e[1]+'</td>' +
-                   '<td>'+e[2]+'</td>' +
-                   '<td>'+e[3]+'</td>' + '</tr>')
+    fileOut.write('|+e[0]+|
+                   |+e[1]+|
+                   |+e[2]+|
+                   |+e[3]+|
                   
 fileOut.write('</table>')
                   
