@@ -4,3 +4,5 @@
 -https://github.com/thomas-xd/lab3/blob/main/lab3part2.py
 # prime number judge (lab4)
 -https://github.com/thomas-xd/lab3/blob/main/prime%20number.py
+# output 
+-https://github.com/thomas-xd/lab3/blob/main/output.md
